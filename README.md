@@ -2,6 +2,8 @@
 
 App macOS native pour enregistrer des rendez-vous, transcrire l'audio via Whisper et generer un resume structure via Claude.
 
+![MagicResume](screenshot.png)
+
 ## Fonctionnalites
 
 - **Enregistrement audio** : capture micro avec pause/reprise, timer en temps reel
